@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"350051000000964453",
+		"product_id":"736430079244757428",
+		"client_id":"524783787570103488",
+		"client_secret":"E47893F567641BC3CBD71EBCAF75E07A6E9B3D89066360E4159E697112D49432",
+		"project_id":"736430079244757428",
+		"app_id":"103560343",
+		"api_key":"CgB6e3x9hikGOfx1vdtBm1iBBQGGP2FtmCbwrzofmN1bF3uOE8ToZz3Mz2qA8PTDlbxbvsX7cc4fJqR/wnZ+P1qO",
+		"package_name":"com.codergods.huawei_maps"
+	},
+	"configuration_version":"1.0"
+}
